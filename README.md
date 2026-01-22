@@ -114,5 +114,4 @@ The result functions as a mobile application while maintaining a unified, modula
 - REST APIs
 
 <img width="1080" height="1080" alt="New Project (3)" src="https://github.com/user-attachments/assets/105196a9-8649-407a-a950-13167ce40d5a" />
-<img width="1440" height="2880" alt="image" src="https://github.com/user-attachments/assets/20e14e96-4c90-43e2-aef1-f75f3bc4d6e8" />
 
